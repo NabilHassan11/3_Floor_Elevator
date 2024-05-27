@@ -1,2 +1,3 @@
 # 3_Floor_Elevator
 3 Floor Elevator based on basys3 kit and programmed using VHDL language.
+3-floor elevator project based on Basys 3 FPGA kit involves designing and implementing an elevator control system using VHDL (VHSIC Hardware Description Language) programming language and the FPGA technology. The VHDL code is used to implement the functionality of the elevator control system, including the processing of input commands, control of the motor circuits, and the implementation of safety features. The Basys 3 FPGA kit includes a set of input/output components, such as push buttons and seven-segment displays, which are used to simulate the operation of the elevator.
